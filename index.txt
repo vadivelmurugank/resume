@@ -1,0 +1,10 @@
+.. resume
+
+Resume
+======
+
+.. toctree::
+    :maxdepth: 1
+
+    vadivel_resume
+
