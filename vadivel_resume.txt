@@ -71,10 +71,12 @@ Significant Contributions
      *  Involved in Development of pSOS PNA+ Loop back network driver and DLPI STREAMS Driver, and implementation of promiscuous and multicast features.
 
 |
+
 *ACADEMIC PROJECTS*
     * Master's Project work involved Development of Zigbee Down conversion Receiver based on 45nm Technology. The project involved development of  LNA, Filter, Balun and Mixer modules which operates between 2.4-2.483Mhz for channels 11-26. 
     * Bachelor's Project work involved Development of Fuzzy logic based temperature controller with inputs from industrial  pH and temperature sensors.
 
+|
 | vadivelmurugank@gmail.com | (510) 386-5613
 
 .. _ERICSSON INC : http://www.ericsson.com
