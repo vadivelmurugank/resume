@@ -3,6 +3,7 @@
 .. This file is copyright @ 2017 Vadivel Murugan <vadivelmurugank@gmail.com>
 ..  :numbered:
 
+
 :tocdepth: 6
 
 .. sidebar:: Ping @
@@ -11,6 +12,7 @@
     | vadivelmurugank@gmail.com
     | `github projects`_
     | `linkedin profile`_
+
 
 `Vadivel Murugan`_
 ====================
