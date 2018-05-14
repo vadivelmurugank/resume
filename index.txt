@@ -12,10 +12,13 @@
     | `github projects`_
     | `linkedin profile`_
 
+
 `Vadivel Murugan`_
 ====================
 
+
 .. toctree::
+    :tocdepth: 6
     :maxdepth: 6
     :titlesonly:
     :glob:
