@@ -2,16 +2,16 @@
 .. Vadivel's Resume Format
 .. This file is copyright @ 2017 Vadivel Murugan <vadivelmurugank@gmail.com>
 
-.. _Vadivel Murugan : https://vadivelmurugank.github.io/resume/
 
-====================
 Vadivel Murugan
 ====================
-    | `github.com/vadivelmurugank`_ | `linkedin.com/vadivelmurugank`_ 
-    | (510) 386-5613 | vadivelmurugank@gmail.com 
+
+    | (510) 386-5613      vadivelmurugank@gmail.com
+    | `resume`_ `linkedin`_ `github`_
 
 Envision
 ------------------------------------------------------------------------------
+
 Envisioning to develop optimized platform and programmable framework for software defined networks and Sensors.
 
 Summary
@@ -19,20 +19,22 @@ Summary
 
 Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    * **18**  years *(Aug 1999 - Current)* of experience in software design and programming for Edge Router Platform and network switch silicon Ingress/Egress pipelines.
-    * Currently Employed with ERICSSON INC for 5 years, and had been employed with BROADCOM CORPORATION and WIND RIVER SYSTEMS.
-    * Master of Science (MS), Electrical Engineering, San Jose State University.
 
+    * **18**  years *(Aug 1999 - Current)* of experience in software design and programming for Edge Router Platform and network switch silicon Ingress/Egress pipelines.
+    * Employed with ERICSSON INC for 5 years, and had been employed with BROADCOM CORPORATION and WIND RIVER SYSTEMS.
+    * Master of Science (MS), Electrical Engineering, San Jose State University.
     * Experience in ASIC Switch Programming, Network Virtualization with Mirantis OpenStack, Sensor networks and Wireless LAN.
 
 Programming Skills
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     * Programming expertise in C, Python and X86_64/VT-x. Programming Skills in C++/STL and ARMv8 Assembly.
     * Forwarding Plane programming skills with Openflow and P4. Deep packet Inspection regex programming.
     * Development of Broadcom SDK  APIs and Programming with Intel DPDK and openVswitch.
 
 Passionate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     * Passionate about Linux Kernel Programming,  Python Internals, Sensor Networks and DPI.
     * Academic experience and interest with RTL, RF and Zigbee, and Hardware Simulation.
     * Academic Interest in Data science and Statistics
@@ -40,24 +42,29 @@ Passionate
 Significant Contributions
 ------------------------------------------------------------------------------
 
-`ERICSSON INC`_ 
+`ERICSSON INC`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*(April 2013 - Current)* - Involved in development of Ericsson Smart Service Edge Routers and Ericsson Virtual Routing platform.
+
+*(April 2013 - May 2018)* - Involved in development of Ericsson Smart Service Edge Routers and Ericsson Virtual Routing platform.
 
     * Improved OpenVswitch/DPDK performance by 40% with hyperscaling PMD threads and rte ring buffers, CPU Pinning and NUMA awareness for Intel Niantic 10G and Fortville 25G.
     * Customized openstack neutron ovs plugin and ML2 plugin driver for Ericsson cloud platform.
     * Optimized Exact match cache and megaflow cache with openflow ACLs.
-    * Developed Virtual Function (VF) and Physical Function (PF) interfaces for homogeneous access of Data plane fabric and FPGA components in Xen Hypervisor Dom0 platform. 
+    * Developed Virtual Function (VF) and Physical Function (PF) interfaces for homogeneous access of Data plane fabric and FPGA components in Xen Hypervisor Dom0 platform.
 
-    - Bootstrap Control Plane Processor, Data Plane Spider NPU, and Switch Fabric of 40x10G/4x100G line card. 
+
+    - Bootstrap Control Plane Processor, Data Plane Spider NPU, and Switch Fabric of 40x10G/4x100G line card.
     - Integration of uboot, mini-kernel, linux drivers, and Configuration of Non Transparent PCI Bridge, FPGA, core and serdes PLL, power and fantray modules. Bare-metal configurations involved Shmoo of DDR4 SDRAM, TLB Mapping of non-transparent PCI bridge slave devices, eTCAM Slice Configuration and Nor-flash Memory Map.
-    - Extend 12x10G PHY  to 1x100G (4x25G) PHY configuratons and  SFI lane mappings. 
+    - Extend 12x10G PHY  to 1x100G (4x25G) PHY configuratons and  SFI lane mappings.
     - Integrate open source linux modules with third party SDK, and derive solutions to resolve namespace collisions and initialization sequences.
     - Isolate hardware and software issues related to  Core PLL, PCI Gen3 hot plug, I2C, GPIO, MDIO, Serdes and PHY.
     - Resolve Packet drops, credit assignments and calendar resolution, and link partner negotiations.
 
-`BROADCOM CORPORATION`_ 
+|
+
+`BROADCOM CORPORATION`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 *(Oct 2010 - April 2013)*  - Involved in Design and development of Broadcom SDK interfaces and Silicon-On-Chip driver interfaces for 32x40G/100+x10G ( BCM56850/Trident2), 240Gb/s Switch (BCM56640/Triumph3), HiGig2 Switch (bcm88732/shadow)
 
     * Hash enhancements for Memory tables, for micro and macro packet flows.
@@ -69,8 +76,11 @@ Significant Contributions
     - Development of L2 Tunneling Protocol interfaces for MAC-in-MAC, TRILL and GRE.
     - Maintenance of QOS, VLAN and PLL Programming interfaces.
 
+|
+
 `WINDRIVER SYSTEMS(INTEL)`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
  *(Dec2006 - Oct 2010)*  - Involved in WindRiver Linux platform framework and tools development.
 
     * Hash Algorithm and Memory optimizations for dynamic memory pool stack and replishments.
@@ -81,26 +91,33 @@ Significant Contributions
     - Developed MIPS and ARM static/shared library loader to load instrumented binary stubs.
     - Maintenance of ARM and MIPS stack walk, trace back mechanisms.
 
+|
+
 Past Projects
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 *WIPRO TECHNOLOGIES* *(May 2000 - Nov2006)*  - Development of 802.11b and WindRiver Vxworks Drivers.
 
-     * Developed Windriver Vxworks BSP for ARMv6 based network boards. 
+     * Developed Windriver Vxworks BSP for ARMv6 based network boards.
      * Developed 802.11b wireless device stack and access point in Linux
      * Design and Development of L2 switch and STP Protocol for Wireless LAN Access point.
+
 
 *EMBEDDED RESOURCES PRIVATE LIMITED* *(Aug 1999  May 2000)* -  Development of Solaris, pSOS Network DPLI Drivers.
 
      * Implemented Solaris and pSOS PNA+ Loop back network driver and DLPI STREAMS Driver, and added promiscuous and multicast features.
 
+|
+
 ACADEMIC PROJECTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    * Master's Project work involved Development of Zigbee Down conversion Receiver based on 45nm Technology. The project involved development of  LNA, Filter, Balun and Mixer modules which operates between 2.4-2.483Mhz for channels 11-26. 
+    * Master's Project work involved Development of Zigbee Down conversion Receiver based on 45nm Technology. The project involved development of  LNA, Filter, Balun and Mixer modules which operates between 2.4-2.483Mhz for channels 11-26.
 
     - Bachelor's Project work involved Development of Fuzzy logic based temperature controller with inputs from industrial pH and temperature sensors.
 
-.. _linkedin.com/vadivelmurugank : https://www.linkedin.com/in/vadivelmurugank/
-.. _github.com/vadivelmurugank : https://github.com/vadivelmurugank
+.. _resume : https://vadivelmurugank.github.io/resume/
+.. _linkedin : https://www.linkedin.com/in/vadivelmurugank/
+.. _github : https://github.com/vadivelmurugank
 .. _ERICSSON INC : http://www.ericsson.com
 .. _BROADCOM CORPORATION : http://www.broadcom.com
 .. _WINDRIVER SYSTEMS(INTEL) : http://www.windriver.com

@@ -1,5 +1,5 @@
 
-include $(HOME)/github/docgen/defs.inc
+include $(HOME)/picothing/scripts/docgen/defs.inc
 include $(DOCGEN_PATH)/rules.doc
 
 .phony: resume
