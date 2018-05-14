@@ -3,6 +3,7 @@
 .. This file is copyright @ 2017 Vadivel Murugan <vadivelmurugank@gmail.com>
 ..  :numbered:
 
+
 :tocdepth: 6
 
 .. sidebar:: Ping @
@@ -16,9 +17,7 @@
 `Vadivel Murugan`_
 ====================
 
-
 .. toctree::
-    :tocdepth: 6
     :maxdepth: 6
     :titlesonly:
     :glob:
